@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Naya Digital</string>
+    <string name="name_item">Informasi Penjualan</string>
+    <string name="desc">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Asus TUF Gaming A15</item>
+        <item>Acer Predator Helios 500</item>
+        <item>Lenovo Legion Slim 7i</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Asus meluncurkan laptop gaming terbaru dari lini TUF Gaming, yakni TUF Gaming A15 (FA507).</item>
+        <item>Dengan kerangka yang dibuat dengan presisi dan dilapisi aluminium berkualitas tinggi, laptop Lenovo Legion 7i telah dirancang dengan baik untuk mengalahkan lawan.</item>
+        <item>Predator Gaming menghadirkan rangkaian perangkat gaming yang disesuaikan dengan kebutuhan user, mulai dari content creator, pelajar, sampai gamer.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/tuf</item>
+        <item>@drawable/acer</item>
+        <item>@drawable/lenovo</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
